@@ -9,6 +9,7 @@ This repository will guide you to steal whatever the user copies and send conten
 
 <p>4. Compile with <i><b>go build .\copyStealer.go</b></i></p>
 <p>5. Test it.</p>
+<h4>If you don not want console window compile the code like this --> <b><i>go build -ldflags -H=windowsgui .\copyStealer.go</i></b></h4><hr>
   <h3>Demo</h3>
 
 https://user-images.githubusercontent.com/83189731/158163224-72b0c891-fda8-4d05-a179-b61ecda38240.mp4
